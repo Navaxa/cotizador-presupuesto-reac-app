@@ -6,7 +6,7 @@ Language | Library | Author |
 | --------| -------- | -------- |
 javascript| React |  Miguel Nava | |
 
-Watch application here [https://navaxa.github.io/cotizador-presupuesto-reac-app/](https://navaxa.github.io/cotizador-presupuesto-reac-app/)
+Watch application here [https://navaxa.github.io/cotizador-presupuesto-react-app/](https://navaxa.github.io/cotizador-presupuesto-react-app/)
 
 ## Available Scripts
 
