@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cotizador-presupuesto-reac-app/static/css/main.3c8bf4df.chunk.css",
+    "main.js": "/cotizador-presupuesto-reac-app/static/js/main.2d4bb964.chunk.js",
+    "main.js.map": "/cotizador-presupuesto-reac-app/static/js/main.2d4bb964.chunk.js.map",
+    "runtime-main.js": "/cotizador-presupuesto-reac-app/static/js/runtime-main.aba55989.js",
+    "runtime-main.js.map": "/cotizador-presupuesto-reac-app/static/js/runtime-main.aba55989.js.map",
+    "static/js/2.fd8394f0.chunk.js": "/cotizador-presupuesto-reac-app/static/js/2.fd8394f0.chunk.js",
+    "static/js/2.fd8394f0.chunk.js.map": "/cotizador-presupuesto-reac-app/static/js/2.fd8394f0.chunk.js.map",
+    "static/js/3.ff8d4461.chunk.js": "/cotizador-presupuesto-reac-app/static/js/3.ff8d4461.chunk.js",
+    "static/js/3.ff8d4461.chunk.js.map": "/cotizador-presupuesto-reac-app/static/js/3.ff8d4461.chunk.js.map",
+    "index.html": "/cotizador-presupuesto-reac-app/index.html",
+    "static/css/main.3c8bf4df.chunk.css.map": "/cotizador-presupuesto-reac-app/static/css/main.3c8bf4df.chunk.css.map",
+    "static/js/2.fd8394f0.chunk.js.LICENSE.txt": "/cotizador-presupuesto-reac-app/static/js/2.fd8394f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aba55989.js",
+    "static/js/2.fd8394f0.chunk.js",
+    "static/css/main.3c8bf4df.chunk.css",
+    "static/js/main.2d4bb964.chunk.js"
+  ]
+}
